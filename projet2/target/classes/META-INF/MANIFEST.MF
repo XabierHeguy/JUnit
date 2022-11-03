@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Built-By: xheguy
 Build-Jdk: 19
 Created-By: Maven Integration for Eclipse
 
+=======
+Manifest-Version: 1.0
+Built-By: xheguy
+Build-Jdk: 19
+Created-By: Maven Integration for Eclipse
+
+>>>>>>> 5949a7cddd2605e8b211dc4039fa0dd82f49b702

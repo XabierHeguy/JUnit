@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package projet2;
 
 public class Calculatrice {
@@ -39,3 +40,19 @@ public class Calculatrice {
 	}
 
 }
+=======
+package projet2;
+
+public class Calculatrice {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public int add(int a, int b) {
+		return a+b;
+	}
+
+}
+>>>>>>> 5949a7cddd2605e8b211dc4039fa0dd82f49b702
