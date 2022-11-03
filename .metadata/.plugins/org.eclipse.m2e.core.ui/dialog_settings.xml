@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\xheguy\Desktop\Exercices\JUnit_perso\projet2"/>
 			<item value="C:\Users\xheguy\Desktop\Exercices\Junit\projet1\src\test\java\projet1\MonTest.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -44,12 +45,16 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="exo3"/>
+			<item value="exercice3Junit"/>
 			<item value="exercice2Junit"/>
 			<item value="exerciceJunit"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="projet3"/>
+			<item value="Calculatrice2"/>
 			<item value="projet2"/>
 			<item value="projet1"/>
 		</list>
