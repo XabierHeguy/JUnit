@@ -1,0 +1,25 @@
+package projet2;
+
+import static org.junit.jupiter.api.Assertions.fail;
+
+import org.junit.jupiter.api.Test;
+
+
+class CalculatriceTest {
+
+/*	@Test
+	void test() {
+		fail("Not yet implemented");
+	}*/
+	
+	@Test
+	void testAdd() {
+		Calculatrice calc = new Calculatrice();
+		System.out.println(" Résultat         : " + calc.add(1,2));
+		System.out.println(" Résultat attendu : 3");
+		
+	}
+	
+	
+
+}
